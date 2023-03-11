@@ -51,7 +51,7 @@ public class ScreenshotExample {
 		File destination1 = new File("D:\\Booma\\SeleniumTraining\\workspace\\Selenium\\screenshots\\fbLogin.png");
 		FileUtils.copyFile(temp1, destination1);
 		System.out.println("Screen shot taken successfully");
-		
+		System.out.println("Screen shot taken successfully by Karthik");
 	}
 
 }
