@@ -54,7 +54,7 @@ public class ScreenshotExample {
 		System.out.println("Screen shot taken successfully added by Booma");
 		System.out.println("Screen shot taken successfully added by Rajesh");
 		System.out.println("Screen shot taken successfully added by Ram");
-		
+		System.out.println("Screen shot taken successfully added by Ram2");
 
 	}
 
